@@ -21,7 +21,7 @@
    <img src="./assets/images/iphone.png" alt="I-phone">
             </div>
         </div>  
-    </header>        <br /><br /><br /><br /><br /><br /><br /><br /><br />
+    </header>
     <main>
         <div class="container2">
             <div class="three">
@@ -41,13 +41,13 @@
                 <p>Percentage of users that are frustrated with page load times.</p>
                 </div>
             </div>
-        </div>            <br /><br /><br /><br /><br /><br /><br /><br /><br />
+        </div>         
         <div class="mission">
             <h1>Our Mission</h1>
             <p class="long">To spread technology & produce skilled developers in Pakistan.Techna tooks an<br />initiative to privide Free or Low-Cost technology education; this will help to solve<br />unemployment issues of youngsters and boost IT. Exports of Pakistan.</p>   
             <a href="index.html" class="button">VISIT US</a>
         </div>
-    </main>             <br /><br /><br /><br /><br /><br /><br /><br /><br />
+    </main>       
     <footer>
         <div class="container3">
             <div class="r-f">
